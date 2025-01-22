@@ -1,0 +1,7 @@
+C:\Users\christopher\source\repos\Technical Assessment\bin\Debug\Technical Assessment.exe.config
+C:\Users\christopher\source\repos\Technical Assessment\bin\Debug\Technical Assessment.exe
+C:\Users\christopher\source\repos\Technical Assessment\bin\Debug\Technical Assessment.pdb
+C:\Users\christopher\source\repos\Technical Assessment\obj\Debug\Technical Assessment.csproj.AssemblyReference.cache
+C:\Users\christopher\source\repos\Technical Assessment\obj\Debug\Technical Assessment.csproj.CoreCompileInputs.cache
+C:\Users\christopher\source\repos\Technical Assessment\obj\Debug\Technical Assessment.exe
+C:\Users\christopher\source\repos\Technical Assessment\obj\Debug\Technical Assessment.pdb
